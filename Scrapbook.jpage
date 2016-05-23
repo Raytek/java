@@ -1,0 +1,6 @@
+Pessoa p = new Pessoa();
+p.setNome("joao");
+p.setMaxLivros(3);
+p.getNome()
+
+System.out.println("Bla!");
